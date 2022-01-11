@@ -9,6 +9,7 @@ RENCANA KONTEN WPU
 - Fundamental Data Structure
 - PHP Framework
  * Laravel
+ * Code Igniter
 - Interview
 - Vlogs
 - Python
